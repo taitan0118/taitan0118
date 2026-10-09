@@ -5,10 +5,10 @@
 <h3 align="center">"Xử lý nhanh, hệ thống ổn định, người dùng bớt phiền."</h3>
 
 <p align="center">
-  <a href="https://missingprofile.unaux.com/"><img src="https://img.shields.io/badge/Website-missingprofile.unaux.com-1e6fe0?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://zalo.me/0373395604"><img src="https://img.shields.io/badge/Zalo-0373%20395%20604-0068ff?style=for-the-badge"></a>
-  <a href="https://m.me/tantai0118"><img src="https://img.shields.io/badge/Messenger-tantai0118-0084ff?style=for-the-badge&logo=messenger&logoColor=white"></a>
-  <a href="mailto:nguyentantai0118@gmail.com"><img src="https://img.shields.io/badge/Email-nguyentantai0118@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://missingprofile.unaux.com/" title="Website"><img src="icons/web.svg" width="48" height="48" alt="Website"></a>&nbsp;
+  <a href="https://zalo.me/0373395604" title="Zalo"><img src="icons/zalo.svg" width="48" height="48" alt="Zalo"></a>&nbsp;
+  <a href="https://m.me/tantai0118" title="Messenger"><img src="icons/messenger.svg" width="48" height="48" alt="Messenger"></a>&nbsp;
+  <a href="mailto:nguyentantai0118@gmail.com" title="Email"><img src="icons/email.svg" width="48" height="48" alt="Email"></a>
 </p>
 
 ---
@@ -40,13 +40,6 @@ Mình là **Nguyễn Tấn Tài** (nickname **Missing**), làm **IT Support** v�
 
 - [Holy Marketing](https://holymarketing.net/): website doanh nghiệp dịch vụ Marketing trên WordPress
 - [Giò Chả Hàm Rồng](https://giochahamrong.com/): website giới thiệu sản phẩm, có form liên hệ và đặt hàng
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=taitan0118&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taitan0118&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
-</p>
 
 ## 📫 Liên hệ
 
